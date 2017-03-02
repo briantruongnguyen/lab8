@@ -1,4 +1,4 @@
-function initMap() {
+function initAutocomplete() {
   // Create center marker at UCSD
   var ucsd_ltlng = {lat:32.880, lng:-117.236};
 
